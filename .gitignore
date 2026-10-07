@@ -1,0 +1,14 @@
+# Eclipse project metadata
+.settings/
+.project
+.classpath
+# Maven build output
+target/
+
+# IDE metadata
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+.vscode/
