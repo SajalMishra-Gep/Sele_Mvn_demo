@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Local_File_Testing {
 	static LocatorManager LM =new LocatorManager();
 	public static void main(String[] args) throws InterruptedException, IOException {
-		
+		//THis is the first testcase
 		// TODO Auto-generated method stub
 		ChromeDriver dr=new ChromeDriver();
 		dr.get("C:\\Users\\HP\\Desktop\\2026-27_Odd Sem\\BCA\\BCA-A-11-09-2026.html");
